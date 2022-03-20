@@ -18,7 +18,7 @@
   ## Description
   This project provides the backend functionality of an e-commerce site. It has been configured with an Express.js API, Sequelize, and MySQL.
   
-  <img src=" />
+  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
 
   ## Installation Instructions
   Download file package and install dependencies: MySQL2, Sequelize,Express, and dotenv.
