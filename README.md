@@ -24,7 +24,8 @@
   Download file package and install dependencies: MySQL2, Sequelize,Express, and dotenv.
 
   ## Usage
-  N/A
+  Please see a walkthrough video of the application here: 
+https://drive.google.com/file/d/1ZpDek6EWYbxz6h0VyUE96-2CZ2f35x4B/view?usp=sharing
 
   ## Contributions
   This project was completed by Claudia (ccd330).
